@@ -5,23 +5,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-
-```
- 🌱 I’m currently learning ** Mern Stack, REST API, and MongoDB **
- 👯 I’m looking to collaborate on Web Development Related Projects **
- 🤔 I’m looking for help with Mern **
- 🥅 2023 Goals: To be profficient in MERN Stack :|
- ⚡ Fun fact: I love taking photos, playing video games.
-```
-
-<p>   
-  <img src="https://profile-counter.glitch.me/farhanreizha/count.svg" />  
+<p align="center">   
+  <img src="https://profile-counter.glitch.me/Access-At/count.svg" />  
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanreizha&theme=great-gatsby&layout=compact)](https://github.com/farhanreizha)
-
 ---
-### Skills
+<!-- ### Skills
 
 <h3>Languages</h3>
 <p>
@@ -133,11 +122,9 @@
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a>
 </p>
-  
-<p align="centre">
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=farhanreizha&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
-
+ 
+ -->
 <div align="center">
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 </div>
