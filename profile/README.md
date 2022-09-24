@@ -124,20 +124,16 @@
 </p>
  -->
  
-<div align="center">
+<!-- <div align="center">
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 </div>
 
 <p align="center">
 <br>
-<!-- <a href="https://www.facebook.com/farhanreizhaf/"><img src="https://img.shields.io/badge/facebook-0A2472.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://twitter.com/FarhanReizha"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp; -->
+<a href="https://www.facebook.com/farhanreizhaf/"><img src="https://img.shields.io/badge/facebook-0A2472.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://twitter.com/FarhanReizha"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="mailto:access.dev@gmail.com?subject=Hola%Farhan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-</p>
+</p>  -->
 
 ---
-
-Credit: [farhanreizha](https://github.com/farhanreizha)
-
-Last edited on: 22/09/2022
 
